@@ -1,1 +1,1 @@
-site para acessar meu projeto é esse: https://deividfuzari.github.io/projeto-cordel/
+link para acessar meu projeto com curso de html e css é esse: https://deividfuzari.github.io/projeto-cordel/
